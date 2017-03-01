@@ -2,8 +2,7 @@
 A weather app that uses geolocation, OpenWeatherMap api, Eric Flowers's weather icons, SaSS employing nested callbacks
 
 
-<img src="./extras/weather.jpg" width="600"></a>
-
+<a href="https://github.com/appijumbo/weatherAppv1/archive/master.zip"><img src="./extras/weather.jpg" width="600"></a>
 
 This weather app is also on [Codepen](http://codepen.io/tom_o/pen/XdXqOB)
 
