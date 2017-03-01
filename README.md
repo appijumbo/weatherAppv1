@@ -22,11 +22,12 @@ User Story
 
   * push a button to toggle between Fahrenheit and Celsius.
 
-We recommend using the Open Weather API. 
-This will require creating a free API key. Normally you want to avoid exposing API keys on CodePen, but we haven't been able to find a keyless API for weather.
 
 ## Note: This app wont work in Codepen or Github because it uses a http API
-The Open Weather Api uses http not https. 
-This means that the <bold>geolocation won't work unfortunatly</bold>, so to use this app [you have to download this app as a zip](https://github.com/appijumbo/weatherAppv1/archive/master.zip)
+
+It's recommended to use the Open Weather API. 
+This will require creating a free API key. Normally you want to avoid exposing API keys on CodePen, but we haven't been able to find a keyless API for weather.
+
+However the Open Weather Api uses http not https.  This means that the <bold>geolocation won't work unfortunatly</bold>, so to use this app [you have to download this app as a zip](https://github.com/appijumbo/weatherAppv1/archive/master.zip)
 
 
