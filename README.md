@@ -8,6 +8,8 @@ This weather app is also on [Codepen](http://codepen.io/tom_o/pen/XdXqOB)
 
 It was designed as part of the the [Free Code Camp course](https://www.freecodecamp.com/challenges/show-the-local-weather)
 
+An alternative [version that uses freegoip](https://github.com/appijumbo/WeatherAppV2) not HTML5 geolocation was also coded
+
 
 ## Objectives
 
