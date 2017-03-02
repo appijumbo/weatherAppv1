@@ -27,8 +27,6 @@ User Story
 
 It's recommended to use the Open Weather API. However the Open Weather Api uses http not https.  This means that the <bold>geolocation won't work unfortunatly</bold>, so to use this app [you have to download this app as a zip](https://github.com/appijumbo/weatherAppv1/archive/master.zip)
 
-## Problems pulling in geolocation
-
 Should any geolocation problems arrise the console logs a specific error. However for the user this isn't helpful, thus an error like this will be output
 
 <img src="./extras/geoError.jpg" width="600">
